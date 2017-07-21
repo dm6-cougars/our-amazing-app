@@ -1,6 +1,6 @@
 # Our-Amazing-App
 
-## Headers
+## Purpose
 
 - List item
 - List item
