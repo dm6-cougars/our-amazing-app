@@ -1,6 +1,6 @@
 # Our-Amazing-App
 
-## PURPOSE: 
+## Purpose
 
 - List item
 - List item
